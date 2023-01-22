@@ -9,6 +9,9 @@ on:
     branches: [master]
   pull_request:
     branches: [master]
+    
+permissions:
+  contents: write
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -29,7 +32,7 @@ jobs:
         run: npm run-script build:ci
 
       - name: deploy
-        uses: JamesIves/github-pages-deploy-action@3.5.7
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           BRANCH: gh-pages
