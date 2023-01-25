@@ -1,6 +1,6 @@
 var config = {
   L1: {
-    name: 'Northern Tutchone',
+    name: 'Pelly Crossing',
     lettersInLanguage: [
       'b',
       'm',
