@@ -79,7 +79,7 @@
         "title": "General"
       },
       "themes": {
-        "blue": "Blue",
+        "default": "yellow",
         "dark": "Dark",
         "light": "Light",
         "nature": "Nature",

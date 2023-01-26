@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1674696312916,
+  "timestamp": 1674697075193,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -94,7 +94,7 @@
     "/mothertongues-UI-Web/8-es5.e4939f8be96a49b321af.js": "a34f53b5894362b0b70596830b716a83decf714e",
     "/mothertongues-UI-Web/9-es2015.bf81de84928a20605111.js": "ae8bdfa1480a7b10cfed76314ea0e08d596afc88",
     "/mothertongues-UI-Web/9-es5.bf81de84928a20605111.js": "d6fdebcfa2921331943614c2e2fc631927188523",
-    "/mothertongues-UI-Web/assets/i18n/en.json": "2fad01d0bd3119dfdeafd3fbcb10d7dfcad52f37",
+    "/mothertongues-UI-Web/assets/i18n/en.json": "fb5b0a3e1806f9d456fec0d786bb9f2ef04f006f",
     "/mothertongues-UI-Web/assets/icons/icon-128x128.png": "4a02fbf5ffb8598fb01543484195803f6c68573a",
     "/mothertongues-UI-Web/assets/icons/icon-144x144.png": "c6a0ee2afb45e5319b1734bb71b70ab5b946834b",
     "/mothertongues-UI-Web/assets/icons/icon-152x152.png": "28729967c1d0531531b919619b63cad825e6c91c",
