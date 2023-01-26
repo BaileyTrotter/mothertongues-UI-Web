@@ -51,7 +51,7 @@
         "showing": "Showing entries {{ startIndex }} to {{ endIndex }} of {{ length }}"
       },
       "home": {
-        "slogan": "Welcome to the {{ value }} Mother Tongues Dictionary!",
+        "slogan": "Welcome to the {{ value }} Dictionary!",
         "sub-slogan": "To get started, click on the search button above, and start learning!"
       },
       "random": {
@@ -79,7 +79,7 @@
         "title": "General"
       },
       "themes": {
-        "blue": "Blue",
+        "default": "Yellow",
         "dark": "Dark",
         "light": "Light",
         "nature": "Nature",
@@ -91,8 +91,8 @@
       "title": "Settings"
     },
     "title": {
-      "long": "Mother Tongues",
-      "short": "Mother Tongues"
+      "long": "Pelly Crossing Dictionary",
+      "short": "Pelly Crossing Dictionary"
     },
     "word-modal": {
       "audio": "Audio",
