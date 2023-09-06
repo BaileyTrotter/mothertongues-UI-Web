@@ -131,9 +131,12 @@ export class SearchComponent implements OnDestroy, OnInit {
   // Get l2_results (eng) and target (l1) results
   getResults(searchQuery) {
     if (searchQuery.length > 1) {
-      const searchQueryRe = searchQuery.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+      const searchQueryRe = searchQuery
+        .normalize('NFC')
+        .replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
       // Normalize
       const mtd = window['mtd'];
+      searchQuery = searchQuery.normalize('NFC');
       const originalSearchTerm = mtd.convertQuery(searchQuery);
       // 1. Exact match
       const searchQueryRegex = new RegExp(
