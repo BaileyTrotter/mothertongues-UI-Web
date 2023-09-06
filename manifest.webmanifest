@@ -1,7 +1,7 @@
 {
   "name": "Mother Tongues Dictionaries",
   "short_name": "Mother Tongues",
-  "theme_color": "#1976d2",
+  "theme_color": "#FFDD50",
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "./",
