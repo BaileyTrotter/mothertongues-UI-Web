@@ -32,7 +32,8 @@
     "pages": {
       "about": {
         "contributors": {
-          "title": "Contributors"
+          "title": "Contributors",
+          "title": "About"
         },
         "slogan": "Acknowledgements of support and contributions",
         "text": "In no particular order: The Selkirk First Nation Heritage and Culture Department and staff, the Yukon Native Language Centre and staff, and the Northern Tutchone Elders, speakers, teachers and learners who have, and continue to, preserve, share and maintain Northern Tutchone language.",
