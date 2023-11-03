@@ -4,6 +4,7 @@ var dataDict = [
     definition: 'baby crib', 
     optional: [
       {'Source':'Tommy McGinty and Johnson Edwards, from the Selkirk Indian Language Noun Dictionary (Ritter 1977)'},
+      \n
       {'Part of Speech': 'Noun'}
     ],
     word: "b\u00e9bi by\u00e1\u00e1t", 
