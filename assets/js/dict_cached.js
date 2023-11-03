@@ -1,9 +1,9 @@
 var dataDict = [
   {
-    source: 'Selkirk Indian Language Noun Dictionary - Ritter (1977)', 
+    source: 'noun dictionary', 
     definition: 'baby crib', 
     optional: [
-      {'Source': 'Speaker One: Tommy McGinty, Speaker Two: Johnson Edwards'}
+      {'Source': 'Selkirk Indian Language Noun Dictionary - Ritter (1977), Tommy McGinty and Johnson Edwards (Speakers)'}
     ],
     word: "b\u00e9bi by\u00e1\u00e1t", 
     theme: 'household furnishings and personal belongings',
