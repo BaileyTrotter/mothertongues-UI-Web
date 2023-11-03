@@ -3,7 +3,8 @@ var dataDict = [
     source: 'noun dictionary', 
     definition: 'baby crib', 
     optional: [
-      {'Source':'Tommy McGinty and Johnson Edwards, from the Selkirk Indian Language Noun Dictionary (Ritter 1977)'}
+      {'Source':'Tommy McGinty and Johnson Edwards, from the Selkirk Indian Language Noun Dictionary (Ritter 1977)'},
+      {'Part of Speech': 'Noun'}
     ],
     word: "b\u00e9bi by\u00e1\u00e1t", 
     theme: 'household furnishings and personal belongings',
