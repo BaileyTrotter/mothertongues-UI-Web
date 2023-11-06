@@ -32,19 +32,27 @@ export const META: Meta = {
   browseAudio: true,
   contributors: [
     {
-      name: 'Aidan Pine',
-      title: 'Lead Developer',
+      name: 'April Baker',
+      title: 'SFN Language Coordinator',
       text:
         /* tslint:disable */
-        "Aidan is an application development specialist on the NRC's Indigenous Language Technology project. Aidan is interested in language revitalization because of its inherently multidisplinary nature and because of the social justice component at the centre of the work. Aidan is humbled and excited to be working with such an accomplished and dynamic team and hopes to continue improving the WordWeaver for years to come.",
+        "",
       img: false
     },
     {
-      name: 'Aidan Pine',
-      title: 'Lead Developer',
+      name: 'Vicki Sear',
+      title: 'Project Coordinator',
       text:
         /* tslint:disable */
-        "Aidan is an application development specialist on the NRC's Indigenous Language Technology project. Aidan is interested in language revitalization because of its inherently multidisplinary nature and because of the social justice component at the centre of the work. Aidan is humbled and excited to be working with such an accomplished and dynamic team and hopes to continue improving the WordWeaver for years to come.",
+        "",
+      img: false
+    },
+    {
+      name: 'Bailey Trotter',
+      title: 'Website Developer',
+      text:
+        /* tslint:disable */
+        "",
       img: false
     }
   ],
