@@ -36,7 +36,7 @@ export const META: Meta = {
       title: 'SFN Language Coordinator',
       text:
         /* tslint:disable */
-        "",
+        "April is a citizen of the Selkirk First Nation and works as their Language Coordinator. She coordinates Northern Tutchone Language Revitalization programs and services for her people.",
       img: false
     },
     {
@@ -44,12 +44,60 @@ export const META: Meta = {
       title: 'Project Coordinator',
       text:
         /* tslint:disable */
-        "",
+        "Victoria offers coordination and linguistic support for this dictionary project. She is a PhD candidate in Anthropology at the University of British Columbia and works with Selkirk First Nation, the Yukon Native Language Centre and members of other Northern Tutchone First Nations. Her work focuses on language documentation, language resource development, project planning and coordination, and building capacity for community language work.",
       img: false
     },
     {
       name: 'Bailey Trotter',
       title: 'Website Developer',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Johnson Edwards',
+      title: 'Speaker',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Tommy McGinty',
+      title: 'Speaker',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Kindra Stewart',
+      title: 'SFN Language Learner',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Dena Joe',
+      title: 'SFN Language Learner',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Leslie Johnson',
+      title: 'SFN Language Learner',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Amanda Sam',
+      title: 'SFN Language Learner',
       text:
         /* tslint:disable */
         "",
