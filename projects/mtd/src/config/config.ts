@@ -40,7 +40,7 @@ export const META: Meta = {
       img: false
     },
     {
-      name: 'Vicki Sear',
+      name: 'Victoria Sear',
       title: 'Project Coordinator',
       text:
         /* tslint:disable */
@@ -52,7 +52,7 @@ export const META: Meta = {
       title: 'Website Developer',
       text:
         /* tslint:disable */
-        "",
+        "Bailey developed the online interface of this dictionary project using Mother Tongues Dictionaries. She has a BA in Linguistics from the University of British Columbia and has been a collaborator on multiple dictionary projects for Indigenous and endangered languages. She is currently the coordinator of the Relational Lexicography project at the University of British Columbia.",
       img: false
     },
     {
