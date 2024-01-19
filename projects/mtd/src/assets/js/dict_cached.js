@@ -14,7 +14,7 @@ var dataDict = [
     "definition": "duck (any) ", 
     "word": "chat", 
     audio: [
-      { filename: '../duck.wav' }
+      { filename: 'BaileyTrotter/mothertongues-UI-web/projects/mtd/src/assests/duck.wav' }
     ],
     "theme": "birds", 
     "secondary_theme": NaN, 
