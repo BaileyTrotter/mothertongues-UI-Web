@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1705721267963,
+  "timestamp": 1705721699643,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -106,7 +106,7 @@
     "/mothertongues-UI-Web/assets/icons/icon-72x72.png": "003b88744a12a4cab97f7e049b976934e49d8d12",
     "/mothertongues-UI-Web/assets/icons/icon-96x96.png": "00cdc8bb03295e8e9588dfa0861c8c6e2e3a43e4",
     "/mothertongues-UI-Web/assets/intro.jpg": "fb70c6994706024ce35099c5c38f9a5f40a00c2b",
-    "/mothertongues-UI-Web/assets/js/config.js": "ed8ea14b0e67964968762b90773f3ca269f4e76d",
+    "/mothertongues-UI-Web/assets/js/config.js": "298cd16d69efd7582f59649c52803bb9bb2b5dac",
     "/mothertongues-UI-Web/assets/js/deadSearch.js": "d03ccd5228fe26e8cd3099ec66e1b32836789672",
     "/mothertongues-UI-Web/assets/js/dict_cached.js": "f3abb91d64448a88e37b628c095ad90d8e482619",
     "/mothertongues-UI-Web/assets/js/editDistance.js": "b1da32a11b0bb7180f4fc7654deda55b6f7eb40c",
