@@ -14,7 +14,7 @@ var dataDict = [
     "definition": "duck (any) ", 
     "word": "chat", 
     audio: [
-      { filename: '..duck.wav' }
+      { filename: 'duck.wav' }
     ],
     "theme": "birds", 
     "secondary_theme": NaN, 
