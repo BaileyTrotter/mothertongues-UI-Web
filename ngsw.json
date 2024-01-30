@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1706573704448,
+  "timestamp": 1706575035297,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -54,6 +54,7 @@
         "/mothertongues-UI-Web/assets/icons/icon-512x512.png",
         "/mothertongues-UI-Web/assets/icons/icon-72x72.png",
         "/mothertongues-UI-Web/assets/icons/icon-96x96.png",
+        "/mothertongues-UI-Web/assets/images/Selkirk-Logo.png",
         "/mothertongues-UI-Web/assets/images/map.png",
         "/mothertongues-UI-Web/assets/images/noundictionary.png",
         "/mothertongues-UI-Web/assets/intro.jpg",
@@ -107,6 +108,7 @@
     "/mothertongues-UI-Web/assets/icons/icon-512x512.png": "34a9556e98b677ba6ca510dd970eb840fab5cab0",
     "/mothertongues-UI-Web/assets/icons/icon-72x72.png": "003b88744a12a4cab97f7e049b976934e49d8d12",
     "/mothertongues-UI-Web/assets/icons/icon-96x96.png": "00cdc8bb03295e8e9588dfa0861c8c6e2e3a43e4",
+    "/mothertongues-UI-Web/assets/images/Selkirk-Logo.png": "f1b22eb4d485093e4bde39ccf7f7877210d44a1e",
     "/mothertongues-UI-Web/assets/images/map.png": "fd7370eb0b26c55f889b29fe9e6807c88f5043d8",
     "/mothertongues-UI-Web/assets/images/noundictionary.png": "3b8ec7eaab394ae21c215314e276613476af7857",
     "/mothertongues-UI-Web/assets/intro.jpg": "fb70c6994706024ce35099c5c38f9a5f40a00c2b",
