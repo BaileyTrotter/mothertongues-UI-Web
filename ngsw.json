@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711061695299,
+  "timestamp": 1711061832780,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -45,6 +45,9 @@
       "updateMode": "prefetch",
       "urls": [
         "/mothertongues-UI-Web/assets/audio/duck.wav",
+        "/mothertongues-UI-Web/assets/audio/my_father.wav",
+        "/mothertongues-UI-Web/assets/audio/my_grandfather.wav",
+        "/mothertongues-UI-Web/assets/audio/my_mother.wav",
         "/mothertongues-UI-Web/assets/i18n/en.json",
         "/mothertongues-UI-Web/assets/icons/icon-128x128.png",
         "/mothertongues-UI-Web/assets/icons/icon-144x144.png",
@@ -99,6 +102,9 @@
     "/mothertongues-UI-Web/9-es2015.b09b8200ab07dabf9162.js": "0c7af3106f814385af7a836c84bd326a7738d2a6",
     "/mothertongues-UI-Web/9-es5.b09b8200ab07dabf9162.js": "4cf91926e076e6275bf302ae8ef166bc894a86b7",
     "/mothertongues-UI-Web/assets/audio/duck.wav": "e76201d2a87459a59048a6c8d4a34c0f81b5abc1",
+    "/mothertongues-UI-Web/assets/audio/my_father.wav": "6d0bf2a87fd41a85797dadf9cdd00ff554539b3f",
+    "/mothertongues-UI-Web/assets/audio/my_grandfather.wav": "63dd8ca8730c37c019a010a92f0a353e9171a429",
+    "/mothertongues-UI-Web/assets/audio/my_mother.wav": "e891cb15fb730c27df33a314fd2ad5030f7bef7b",
     "/mothertongues-UI-Web/assets/i18n/en.json": "27c7e5b0feacdd70f3753da4469bb2453fc6375d",
     "/mothertongues-UI-Web/assets/icons/icon-128x128.png": "4a02fbf5ffb8598fb01543484195803f6c68573a",
     "/mothertongues-UI-Web/assets/icons/icon-144x144.png": "c6a0ee2afb45e5319b1734bb71b70ab5b946834b",
