@@ -1,6 +1,32 @@
 var dataDict = [
   {
     source: 'noun dictionary', 
+    definition: 'my grandfather',
+    optional: [
+      {'Source':'Tommy McGinty and Johnson Edwards (Selkirk Indian Language Noun Dictionary 1977)'}
+    ],
+    word: "ihts\u00ec\u02bc",
+    audio: [
+      { filename: 'my_grandfather.wav' }
+    ],
+    theme: 'relatives',
+    secondary_theme: NaN,
+    compare_form: "ihte", "sort_form": "ihts\u00ec\u02bc", "sorting_form": [44, 42, 15, 43], "entryID": "990"}, 
+    {
+    source: 'noun dictionary', 
+    definition: 'my mother',
+    optional: [
+      {'Source':'Tommy McGinty and Johnson Edwards (Selkirk Indian Language Noun Dictionary 1977)'}
+    ],
+    word: "isne",
+    audio: [
+      { filename: 'my_mother.wav' }
+    ],
+    theme: 'relatives',
+    secondary_theme: NaN,
+    compare_form: "ihte", "sort_form": "isne", "sorting_form": [44, 13, 11, 45], "entryID": "988"}, 
+  {
+    source: 'noun dictionary', 
     definition: 'my father',
     optional: [
       {'Source':'Tommy McGinty and Johnson Edwards (Selkirk Indian Language Noun Dictionary 1977)'}
