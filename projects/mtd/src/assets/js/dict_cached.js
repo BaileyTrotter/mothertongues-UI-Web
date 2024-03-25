@@ -1,6 +1,19 @@
 var dataDict = [
   {
     source: 'noun dictionary', 
+    definition: 'my father',
+    optional: [
+      {'Source':'Tommy McGinty and Johnson Edwards (Selkirk Indian Language Noun Dictionary 1977)'}
+    ],
+    word: "iht\u00e9\u02bc",
+    audio: [
+      { filename: 'my_father.wav' }
+    ],
+    theme: 'relatives',
+    secondary_theme: NaN,
+    compare_form: "ihte", "sort_form": "iht\u00e9\u02bc", "sorting_form": [44, 42, 8, 43], "entryID": "986"}, 
+  {
+    source: 'noun dictionary', 
     definition: 'baby crib', 
     optional: [
       {'Source':'Tommy McGinty and Johnson Edwards (Selkirk Indian Language Noun Dictionary 1977)'}
