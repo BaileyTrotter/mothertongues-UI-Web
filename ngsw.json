@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1711470197364,
+  "timestamp": 1711470452353,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -120,7 +120,7 @@
     "/mothertongues-UI-Web/assets/intro.jpg": "fb70c6994706024ce35099c5c38f9a5f40a00c2b",
     "/mothertongues-UI-Web/assets/js/config.js": "eb5d40bb436a007b93edfba42269a288a82c83f7",
     "/mothertongues-UI-Web/assets/js/deadSearch.js": "d03ccd5228fe26e8cd3099ec66e1b32836789672",
-    "/mothertongues-UI-Web/assets/js/dict_cached.js": "5dd50cbe9515e14f02e3a7e2216c2e3cae422541",
+    "/mothertongues-UI-Web/assets/js/dict_cached.js": "fe800c173e66b41b06d09efa0886129c95f4ad96",
     "/mothertongues-UI-Web/assets/js/editDistance.js": "b1da32a11b0bb7180f4fc7654deda55b6f7eb40c",
     "/mothertongues-UI-Web/assets/js/levenshtein.js": "55eb798151863e5cc6cafaf32582876a4b3922c7",
     "/mothertongues-UI-Web/assets/js/mtd-ui.min.js": "7f8c75999ccd36d6ad8aaa18d8884389b085e87b",
