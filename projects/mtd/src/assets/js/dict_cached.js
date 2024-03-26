@@ -24,7 +24,7 @@ var dataDict = [
     ],
     theme: 'relatives',
     secondary_theme: NaN,
-    compare_form: "ihte", "sort_form": "isne", "sorting_form": [44, 13, 11, 45], "entryID": "988"}, 
+    compare_form: "iste", "sort_form": "ihne", "sorting_form": [44, 13, 11, 45], "entryID": "988"}, 
   {
     source: 'noun dictionary', 
     definition: 'my father',
