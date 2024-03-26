@@ -18,7 +18,7 @@ var dataDict = [
     optional: [
       {'Source':'Tommy McGinty and Johnson Edwards (Selkirk Indian Language Noun Dictionary 1977)'}
     ],
-    word: "isne",
+    word: "ihne",
     audio: [
       { filename: 'my_mother.wav' }
     ],
