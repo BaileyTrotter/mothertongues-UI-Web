@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1746761699819,
+  "timestamp": 1746761865320,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -106,7 +106,7 @@
     "/mothertongues-UI-Web/assets/audio/my_father.wav": "6d0bf2a87fd41a85797dadf9cdd00ff554539b3f",
     "/mothertongues-UI-Web/assets/audio/my_grandfather.wav": "63dd8ca8730c37c019a010a92f0a353e9171a429",
     "/mothertongues-UI-Web/assets/audio/my_mother.wav": "e891cb15fb730c27df33a314fd2ad5030f7bef7b",
-    "/mothertongues-UI-Web/assets/i18n/en.json": "999aa4a415b92da84cbae7f8e3788a1088c23385",
+    "/mothertongues-UI-Web/assets/i18n/en.json": "61746797c0dd6291f01e90e2e2ef924da2b8a3f1",
     "/mothertongues-UI-Web/assets/icons/icon-128x128.png": "4a02fbf5ffb8598fb01543484195803f6c68573a",
     "/mothertongues-UI-Web/assets/icons/icon-144x144.png": "c6a0ee2afb45e5319b1734bb71b70ab5b946834b",
     "/mothertongues-UI-Web/assets/icons/icon-152x152.png": "28729967c1d0531531b919619b63cad825e6c91c",
