@@ -36,7 +36,7 @@ export const META: Meta = {
       title: 'SFN Language Coordinator',
       text:
         /* tslint:disable */
-        "April is a citizen of the Selkirk First Nation and works as their Language Coordinator. She coordinates Northern Tutchone Language Revitalization programs and services for her people.",
+        "April is a citizen of the Selkirk First Nation and works as their Language Coordinator. She coordinates Dän K’í Language Revitalization programs and services for her people.",
       img: false
     },
     {
@@ -49,10 +49,10 @@ export const META: Meta = {
     },
     {
       name: 'Bailey Trotter',
-      title: 'Website Developer',
+      title: 'Dictionary Developer',
       text:
         /* tslint:disable */
-        "Bailey developed the online interface of this dictionary project using Mother Tongues Dictionaries. She has a BA in Linguistics from the University of British Columbia and has been a collaborator on multiple dictionary projects for Indigenous and endangered languages. She is currently the coordinator of the Relational Lexicography project at the University of British Columbia.",
+        "Using Mother Tongues Dictionaries Bailey compiled the online interface of this dictionary project. She is a graduate student in linguistics at the University of British Columbia and has been a collaborator on multiple dictionary projects for Indigenous and endangered languages.",
       img: false
     },
     {
