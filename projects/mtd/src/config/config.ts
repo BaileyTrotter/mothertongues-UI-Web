@@ -64,7 +64,7 @@ export const META: Meta = {
       img: false
     },
     {
-      name: 'Tommy McGinty',
+      name: '(Late) Tommy McGinty',
       title: 'Speaker',
       text:
         /* tslint:disable */
@@ -80,7 +80,7 @@ export const META: Meta = {
       img: false
     },
     {
-      name: 'Dena Joe',
+      name: 'Dayna Joe',
       title: 'SFN Language Learner',
       text:
         /* tslint:disable */
@@ -98,6 +98,30 @@ export const META: Meta = {
     {
       name: 'Amanda Sam',
       title: 'SFN Language Learner',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Zina McGinty',
+      title: 'SFN Language Assistant',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Shirley Joe',
+      title: 'SFN Language Instructor',
+      text:
+        /* tslint:disable */
+        "",
+      img: false
+    },
+    {
+      name: 'Myles Blattman',
+      title: 'Audio Editing',
       text:
         /* tslint:disable */
         "",
