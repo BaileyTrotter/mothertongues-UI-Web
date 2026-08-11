@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1786410208738,
+  "timestamp": 1786410493064,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -44,6 +44,13 @@
       "installMode": "lazy",
       "updateMode": "prefetch",
       "urls": [
+        "/mothertongues-UI-Web/assets/audio/00513_bear_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav",
+        "/mothertongues-UI-Web/assets/audio/00515_brown-bear_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav",
+        "/mothertongues-UI-Web/assets/audio/00516_baby-bear_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav",
+        "/mothertongues-UI-Web/assets/audio/00517_beaver_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav",
+        "/mothertongues-UI-Web/assets/audio/00518_beaver-dam_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav",
+        "/mothertongues-UI-Web/assets/audio/00520_caribou_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav",
+        "/mothertongues-UI-Web/assets/audio/00523_fox_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav",
         "/mothertongues-UI-Web/assets/audio/duck.wav",
         "/mothertongues-UI-Web/assets/audio/my_father.wav",
         "/mothertongues-UI-Web/assets/audio/my_grandfather.wav",
@@ -102,6 +109,13 @@
     "/mothertongues-UI-Web/8-es5.1182d4c3d1757ad7aedc.js": "c8898a2487a6c35a498e77b3c4cb322e1cdf3565",
     "/mothertongues-UI-Web/9-es2015.b09b8200ab07dabf9162.js": "0c7af3106f814385af7a836c84bd326a7738d2a6",
     "/mothertongues-UI-Web/9-es5.b09b8200ab07dabf9162.js": "4cf91926e076e6275bf302ae8ef166bc894a86b7",
+    "/mothertongues-UI-Web/assets/audio/00513_bear_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav": "bb7219387a1fc2b1f3d71da1579c8f1f55fc8bde",
+    "/mothertongues-UI-Web/assets/audio/00515_brown-bear_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav": "3ac9f53083232ec40e3bf7bd376b1513c2bce2e0",
+    "/mothertongues-UI-Web/assets/audio/00516_baby-bear_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav": "795ce7e66983f79eab0d8a7ad438c66327564a71",
+    "/mothertongues-UI-Web/assets/audio/00517_beaver_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav": "fb12e2d6e8d402715292d4c6cf074cfd27ad41cb",
+    "/mothertongues-UI-Web/assets/audio/00518_beaver-dam_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav": "15188fb7c025a9a3e8e1e37d6d60288fb645cf36",
+    "/mothertongues-UI-Web/assets/audio/00520_caribou_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav": "f40760537ede5ba531f9f15182769cc037a666a3",
+    "/mothertongues-UI-Web/assets/audio/00523_fox_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav": "1c95cdca13e37685dc3c244363cb950d25144a30",
     "/mothertongues-UI-Web/assets/audio/duck.wav": "e76201d2a87459a59048a6c8d4a34c0f81b5abc1",
     "/mothertongues-UI-Web/assets/audio/my_father.wav": "6d0bf2a87fd41a85797dadf9cdd00ff554539b3f",
     "/mothertongues-UI-Web/assets/audio/my_grandfather.wav": "63dd8ca8730c37c019a010a92f0a353e9171a429",
