@@ -4,6 +4,6 @@ var dataDict = [
         theme: "mammals", 
         definition: "caribou", 
         word: "udzi", 
-        audio: "00520_caribou_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav"
+        audio: filename: "00520_caribou_ttm_Johnson-Edwards_PC_08-09-2023_Selkirk-Noun-Dictionary.wav"
     }
 ]
