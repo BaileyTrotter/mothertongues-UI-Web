@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1787701170914,
+  "timestamp": 1787764426470,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -134,7 +134,7 @@
     "/mothertongues-UI-Web/assets/images/map.png": "fd7370eb0b26c55f889b29fe9e6807c88f5043d8",
     "/mothertongues-UI-Web/assets/images/noundictionary.png": "3b8ec7eaab394ae21c215314e276613476af7857",
     "/mothertongues-UI-Web/assets/intro.jpg": "fb70c6994706024ce35099c5c38f9a5f40a00c2b",
-    "/mothertongues-UI-Web/assets/js/config-dan-ki.js": "4358d9324b8a10548369c1568986fb3fdcfcd7df",
+    "/mothertongues-UI-Web/assets/js/config-dan-ki.js": "065d4801268df431f963e83eb51f0c54ede10fe2",
     "/mothertongues-UI-Web/assets/js/deadSearch.js": "d03ccd5228fe26e8cd3099ec66e1b32836789672",
     "/mothertongues-UI-Web/assets/js/dict_cached-dan-ki.js": "0779630820b1b8d68bd663b252510fb2f245466d",
     "/mothertongues-UI-Web/assets/js/editDistance.js": "b1da32a11b0bb7180f4fc7654deda55b6f7eb40c",
