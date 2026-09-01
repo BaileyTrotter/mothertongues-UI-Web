@@ -6,45 +6,4 @@
   $foreground: map-get($theme, foreground);
   $background: map-get($theme, background);
 
-  mtd-guide {
-    .content__container {
-      background: mat-color($background, background);
-    }
-
-    .background {
-      color: mat-color($foreground, text);
-      background-color: mat-color($background, background);
-
-      .gradient {
-        &::before {
-          background: linear-gradient(
-            to bottom,
-            mat-color($background, background, 0) 0%,
-            mat-color($background, background, 1) 100%
-          );
-        }
-      }
-    }
-
-    .follow-releases,
-    .contributors {
-      p {
-        background-color: mat-color($background, background);
-
-        a {
-          color: mat-color($accent);
-
-          &:hover {
-            color: mat-color($accent, darker);
-          }
-        }
-      }
-    }
-
-    .contributors {
-      img {
-        border-color: mat-color($background, background) !important;
-      }
-    }
-  }
 }
