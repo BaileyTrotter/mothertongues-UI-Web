@@ -19,6 +19,7 @@
     },
     "menu": {
       "about": "About",
+      "guide": "Guide",
       "bookmarks": "Bookmarks",
       "browse": "Browse",
       "examples": "Examples",
