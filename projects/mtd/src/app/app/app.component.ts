@@ -42,7 +42,8 @@ export class AppComponent implements OnInit, OnDestroy {
     { link: 'browse', label: marker('mtd.menu.browse') },
     { link: 'random', label: marker('mtd.menu.random') },
     { link: 'bookmarks', label: marker('mtd.menu.bookmarks') },
-    { link: 'about', label: marker('mtd.menu.about') }
+    { link: 'about', label: marker('mtd.menu.about') },
+    { link: 'guide', label: marker('mtd.menu.guide') }
   ];
   navigationSideMenu = [
     ...this.navigation,
