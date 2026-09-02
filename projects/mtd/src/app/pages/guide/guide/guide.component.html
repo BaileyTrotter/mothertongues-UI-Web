@@ -1,8 +1,15 @@
 <div class="background">
-    <div class="gradient">
-        <div class='container page__content'>
-            <div class='slogan__container' [ngClass]="routeAnimationsElements">
-                <h3 class='slogan'>{{ 'mtd.pages.guide.slogan' | translate: { value: (mtdService.config$ | async)?.L1.name } }}</h3>
+  <div class="gradient">
+    <div id='guide__page'
+      class="page__content container custom-scroll shadow-box vmargin-right-20 vmargin-left-20 margin-bottom-50">
+      <div class="content__container">
+        <h2 class="main--title centered center-text">{{ 'mtd.common.title' | translate }}</h2>
+        <div class="actions centered center-text">
+          <span [ngClass]="routeAnimationsElements">{{ 'mtd.pages.guide.slogan' | translate }}</span>
+          <br>
+          <div [innerHTML]="'mtd.pages.guide.text' | translate"></div>
+          <br>
+        </div>
             </div>
         </div>
     </div>
