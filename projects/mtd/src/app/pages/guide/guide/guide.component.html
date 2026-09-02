@@ -2,8 +2,8 @@
     <div class="gradient">
         <div class='container page__content'>
             <div class='slogan__container' [ngClass]="routeAnimationsElements">
-              <h3>Helpful Information for Using this Dictionary</h3>
-                </div>
+                <h3 class='slogan'>{{ 'mtd.pages.guide.slogan' | translate: { value: (mtdService.config$ | async)?.L1.name } }}</h3>
             </div>
         </div>
     </div>
+</div>
