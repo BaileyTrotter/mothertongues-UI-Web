@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1788546438551,
+  "timestamp": 1788547744975,
   "index": "/mothertongues-UI-Web/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/mothertongues-UI-Web/0-es2015.c1ab4ba47337dd9b721e.js",
         "/mothertongues-UI-Web/0-es5.c1ab4ba47337dd9b721e.js",
-        "/mothertongues-UI-Web/10-es2015.5d7ac0138b700c9ab21e.js",
-        "/mothertongues-UI-Web/10-es5.5d7ac0138b700c9ab21e.js",
+        "/mothertongues-UI-Web/10-es2015.b8756e2b46ecb13b5ebd.js",
+        "/mothertongues-UI-Web/10-es5.b8756e2b46ecb13b5ebd.js",
         "/mothertongues-UI-Web/11-es2015.aae682b6ff5dde33eb3e.js",
         "/mothertongues-UI-Web/11-es5.aae682b6ff5dde33eb3e.js",
         "/mothertongues-UI-Web/12-es2015.8e47d52c19f8ccfa4a44.js",
@@ -35,8 +35,8 @@
         "/mothertongues-UI-Web/manifest.webmanifest",
         "/mothertongues-UI-Web/polyfills-es2015.49bc2ead84c3e3eae683.js",
         "/mothertongues-UI-Web/polyfills-es5.7e953faa468a75fd9a14.js",
-        "/mothertongues-UI-Web/runtime-es2015.0db7bab3a7cdb2e6cea6.js",
-        "/mothertongues-UI-Web/runtime-es5.0db7bab3a7cdb2e6cea6.js",
+        "/mothertongues-UI-Web/runtime-es2015.4c306bc2c60d72aeeb69.js",
+        "/mothertongues-UI-Web/runtime-es5.4c306bc2c60d72aeeb69.js",
         "/mothertongues-UI-Web/styles.e4e6cfc1f0638027ad9c.css"
       ],
       "patterns": []
@@ -95,8 +95,8 @@
   "hashTable": {
     "/mothertongues-UI-Web/0-es2015.c1ab4ba47337dd9b721e.js": "78c56d3f3ed4c09171fc90543b582e03991189e8",
     "/mothertongues-UI-Web/0-es5.c1ab4ba47337dd9b721e.js": "45b008e6c136035d01ab41a0fe0bad19f0e16b19",
-    "/mothertongues-UI-Web/10-es2015.5d7ac0138b700c9ab21e.js": "8215d7626965c33f3efa8152242eb8eba7eb5f0e",
-    "/mothertongues-UI-Web/10-es5.5d7ac0138b700c9ab21e.js": "06f5490265ebd1467e6a46cf42e55c82eb940684",
+    "/mothertongues-UI-Web/10-es2015.b8756e2b46ecb13b5ebd.js": "40dea7f5c442c54b03ecc5b8a9b04db7f28922b5",
+    "/mothertongues-UI-Web/10-es5.b8756e2b46ecb13b5ebd.js": "a9140041b7478d470ec329947244dc65cdc9d9ae",
     "/mothertongues-UI-Web/11-es2015.aae682b6ff5dde33eb3e.js": "c8666809b6d6b83e399e7a51afbfb02f3aa7521e",
     "/mothertongues-UI-Web/11-es5.aae682b6ff5dde33eb3e.js": "c97803b0dfe1a2a8d21aa1cdaa92fa7eb698b264",
     "/mothertongues-UI-Web/12-es2015.8e47d52c19f8ccfa4a44.js": "d2aaa524ca300bc5ccf82bdec683d4c70412c942",
@@ -153,7 +153,7 @@
     "/mothertongues-UI-Web/assets/logo.png": "001d39204c6e793b13aa37e94396c9c9fee0523d",
     "/mothertongues-UI-Web/assets/release-butler.png": "2c4ee96a2f2da9164722fe60b3f1f05ee087397e",
     "/mothertongues-UI-Web/favicon.ico": "84161b857f5c547e3699ddfbffc6d8d737542e01",
-    "/mothertongues-UI-Web/index.html": "81c18d499287514e8ee270d1294308823962bddd",
+    "/mothertongues-UI-Web/index.html": "4d418b658621483d26ba66501dca97da41c1ca3c",
     "/mothertongues-UI-Web/intro.eee8ed98bac69a59bd77.jpg": "fb70c6994706024ce35099c5c38f9a5f40a00c2b",
     "/mothertongues-UI-Web/logo.f8129dc0be398797db8a.png": "001d39204c6e793b13aa37e94396c9c9fee0523d",
     "/mothertongues-UI-Web/main-es2015.254fe1b3e18edcd1655b.js": "42fcb5284c301f83696f99ab105e35f8822aa4e8",
@@ -161,8 +161,8 @@
     "/mothertongues-UI-Web/manifest.webmanifest": "44dc603a13ec919d209ec201ab5c4caa95c5497e",
     "/mothertongues-UI-Web/polyfills-es2015.49bc2ead84c3e3eae683.js": "7a58105eeed99be445cd92318509687787250218",
     "/mothertongues-UI-Web/polyfills-es5.7e953faa468a75fd9a14.js": "688355ff497c81ac93c0f32d6100f7161370c7a1",
-    "/mothertongues-UI-Web/runtime-es2015.0db7bab3a7cdb2e6cea6.js": "330974471175f60d7581cf79c31697c8e9725478",
-    "/mothertongues-UI-Web/runtime-es5.0db7bab3a7cdb2e6cea6.js": "3ce25bbac3399b2065836bbee8f88c13748c6879",
+    "/mothertongues-UI-Web/runtime-es2015.4c306bc2c60d72aeeb69.js": "1113b7adeb292bed3f99100fa821b181058ff083",
+    "/mothertongues-UI-Web/runtime-es5.4c306bc2c60d72aeeb69.js": "1ed3a0a2c80099374ed0898dca78b1bfdf0f275f",
     "/mothertongues-UI-Web/styles.e4e6cfc1f0638027ad9c.css": "719ee9510718d82e294d47bc023272ee57c9c05c"
   },
   "navigationUrls": [
